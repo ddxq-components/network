@@ -1,0 +1,13 @@
+{
+  "name": "network",
+  "description": "network 提供了一系列发送 AJAX 请求的方法和配置",
+  "version": "1.0.0",
+  "keywords": ["network", "ajax", "jsonp"],
+  "main": "index.js",
+  "dependencies": {
+    "ddxq-components/type": "1.0.0",
+    "ddxq-components/each": "1.0.0",
+    "ddxq-components/extend": "1.0.0",
+    "ddxq-components/promise": "1.0.0"
+  }
+}
